@@ -3,4 +3,6 @@
 int main() {
   printf("Hello!");
   printf("World!");
+  
+  printf("join IOM!");
 }
