@@ -8,6 +8,7 @@ int main() {
   printf("join IOM!");
   
   printf(sum(1,2));
+  pritnf(sss());
   
   
 }
